@@ -7,4 +7,4 @@ declare class GreedyCanvas {
     Clear(x?: number): void;
     Render(): void;
 }
-export default GreedyCanvas;
+export = GreedyCanvas;
