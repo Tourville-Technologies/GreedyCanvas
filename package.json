@@ -1,0 +1,23 @@
+{
+  "name": "@rbxts/greedycanvas",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.1.7-ts.0",
+  "description": "A canvas renderer using greedy gradients to draw efficiently in Roblox",
+  "main": "src/init.lua",
+  "types": "src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tourville-Technologies/GreedyCanvas.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Tourville-Technologies/GreedyCanvas/issues"
+  },
+  "homepage": "https://github.com/Tourville-Technologies/GreedyCanvas#readme",
+  "devDependencies": {
+    "@rbxts/types": "*"
+  }
+}
